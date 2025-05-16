@@ -99,3 +99,13 @@ Select Options
 #### Fasta Burrst 35000 Disposable Device Pack of 5
 
 login to view price
+
+#### Why our Customers Love us?
+
+###### We offer a wide range of Electronic Cigarettes and Supplies, which include:
+
+Starter Kits, Pod Kits & MTL Devices, Mod Kits and Tanks, Freebase E-liquids, Nic-Salt E-liquids, Disposable Vapes, Vape Pens & Accessories. We’ve one of the largest Vape, E-Liquid, NicSalts collection in USA.
+
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2755%27%20height=%2750%27/%3e)![post-img](https://www.shopaairhus.com/images/home/newsteller/postsvg.svg)
+
+##### Get Latest Update & News

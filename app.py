@@ -34,7 +34,7 @@ class Listings(BaseModel):
 
 # ---------- LLM Wrapper ----------
 def extract_with_llm(data: str) -> dict:
-    chat = ChatGroq(model_name="Qwen-Qwq-32b")
+    chat = ChatGroq(model_name="Llama-3.1-8b-Instant")
     parser = PydanticOutputParser(pydantic_object=Listings)
     fixing_parser = OutputFixingParser.from_llm(parser=parser, llm=chat)
 
@@ -146,7 +146,8 @@ if __name__ == "__main__":
     urls = [
         "https://www.avtxwholesale.com/",
         "https://www.shopaairhus.com/",
-        "https://mrawholesale.com/"
+        "https://mrawholesale.com/",
+        "https://www.mkdistro.com/"
     ]
 
     run_batch(urls)
